@@ -1,2 +1,2 @@
 # leetCode
- LeetCode soultions in C++.
+ leetCode soultions in C++.
